@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FragmentState</string>
+
+    <string-array name="titles">
+        <item>LA NOCHE DE LAS BESTIAS</item>
+        <item>LA LEYENDA DE TARZÁN</item>
+        <item>AHORA ME VES 2</item>
+        <item>INFIERNO AZUL</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>El ex sargento de la policía Leo Barnes (Frank Grillo) trabaja como máximo responsable del personal de seguridad de la senadora Charlie Roan (Elizabeth Mitchell), candidata a la próxima elección presidencial. Ya han pasado dos años desde que Barnes tomara la decisión de no vengarse del hombre que mató a su hijo y su vida prosigue con normalidad. Pero ahora tendrá que enfrentarse a un importante evento, La Purga, un ritual anual en el que, durante doce horas, absolutamente todo está permitido, incluidos delitos como el robo y hasta el asesinato.
+        </item>
+        <item>Son muchos los años que han pasado desde que Tarzán (Alexander Skarsgård) abandonara la selva de África. Ahora, el hombre que una vez fue conocido como Tarzán disfruta de una vida aburguesada junto a su amada esposa Jane (Margot Robbie), y su nombre es John Clayton III, Lord Greystoke. Sin embargo, su tranquila y aristocrática vida de hombre casado dará un giro inesperado cuando el Parlamento requiera sus servicios como emisario comercial, y sea invitado a que vuelva de nuevo al Congo. </item>
+        <item>Un año después de haberse ganado al público con sus increíbles espectáculos de magia y de haberse burlado incluso del mismísimo FBI, los Cuatro Jinetes vuelven a la carga. Con sus espectáculos de magia al más puro estilo Robin Hood, el equipo de cuatro ilusionistas formado por Daniel (Jesse Eisenberg ), Jack (Dave Franco), Merritt (Woody Harrelson) y la nueva incorporación de Lula (Lizzy Caplan), reaparecen en los escenarios. Los polémicos y populares magos vuelven a juntarse para llevar a cabo un gran número de magia a escala mundial que promete ser espectacular. </item>
+        <item>Nancy está surfeando tranquilamente en una paya recóndita cuando de repente es atacada por un gigantesco tiburón blanco. Por suerte logra sobrevivir, pero se queda atrapada en pequeño islote a tan solo 200 metros. La distancia es corta y escapar parece sencillo, pero no lo es con el enorme escualo vigilando a su presa. Para salir de allí tendrá que armarse de valor y usar todos sus recursos. </item>
+    </string-array>
+
+
+</resources>
